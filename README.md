@@ -6,7 +6,7 @@ Computer Vision | Deep Learning | Data Scientist | NLP
 
 I have been into data science for more than 2 years now worked on numerous projects ranging from classical machine learning to advance deep learning and computer vision.
 
-* 🌍  I'm based in India
+* 🌍  I'm based in Pune
 * ✉️  You can contact me at [udayzee05@gmail.com](mailto:udayzee05@gmail.com)
 * 🧠  I'm learning I'm learning State of the art Dl and ML algorithms
 * 🤝  I'm open to collaborating on I'm open to collaborating on Computer vision project
