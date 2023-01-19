@@ -8,8 +8,8 @@ I have been into data science for more than 2 years now worked on numerous proje
 
 * 🌍  I'm based in Pune
 * ✉️  You can contact me at [udayzee05@gmail.com](mailto:udayzee05@gmail.com)
-* 🧠  I'm learning State of the art Dl and ML algorithms
-* 🤝  I'm open to collaborating on I'm open to collaborating on Computer vision project
+* 🧠  I'm learning State of the art DL and ML algorithms
+* 🤝  I'm open to collaborating on Computer vision project
 
 <a href="https://www.github.com/udayzee05" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/udayzee05?logo=github&style=for-the-badge&color=ef4444&labelColor=0f172a" /></a>
