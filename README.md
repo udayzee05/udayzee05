@@ -4,7 +4,7 @@ Hi 👋 My name is Uday Zope
 Computer Vision | Deep Learning | Data Scientist | NLP
 ------------------------------------------------------
 
-I have been into data science for more than 2 years now worked on numerous projects ranging from classical machine learning to advance deep learning and computer vision.
+I have been into data science for more than 3 years now worked on numerous projects ranging from classical machine learning to advance deep learning and computer vision.Developing industry standard data pipelines in domains like machine learning and deep learning  
 
 * 🌍  I'm based in Pune
 * ✉️  You can contact me at [udayzee05@gmail.com](mailto:udayzee05@gmail.com)
